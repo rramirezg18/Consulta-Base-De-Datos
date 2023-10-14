@@ -3,7 +3,9 @@
 Realizar una consulta a base de datos, cargar a una lista y desplegar la lista.
 
 Clase main, se implementa la consulta de la base de datos, la carga de una lista y el desplegue de una lista desde una base de datos
+
 ```
+
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -122,6 +124,7 @@ public class Cliente {
         this.nombre = nombre;
     }
 }
+
 ```
 
 
